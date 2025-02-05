@@ -1,8 +1,5 @@
 # Projet Kaggle - Classification d'Images
 
-### Auteurs
-Alexia Prevot et Tanias Mendes Dias
-
 ## Introduction
 Ce projet vise à résoudre la tâche de classification d'images dans le cadre de la compétition Kaggle. Nous avons implémenté plusieurs modèles, dont un classificateur de forêts aléatoires, un réseau de neurones convolutif (CNN), ainsi que d'autres modèles tels que Adaboost et XGBoost.
 
@@ -31,3 +28,6 @@ Pour exécuter le code, veuillez suivre ces étapes :
 - Exécutez les cellules de code une par une dans l'ordre chronologique.
 - Assurez-vous d'avoir les dépendances nécessaires installées, telles que numpy, pandas, scikit-learn, etc.
 - Certains notebooks peuvent avoir des sections spécifiques pour l'entraînement des modèles, veuillez suivre les instructions à l'intérieur de chaque notebook.
+
+### Auteurs
+Alexia Prevot et Tanias Mendes Dias
